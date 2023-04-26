@@ -1,0 +1,6 @@
+.MainText {
+    font-size: calc(3px + 5.5vmin);
+    color: white;
+    margin: 0;
+    max-width: 80%;
+}
