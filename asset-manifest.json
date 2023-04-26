@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aula-nft/static/css/main.07e5ab8b.css",
+    "main.js": "/aula-nft/static/js/main.04e90f29.js",
+    "index.html": "/aula-nft/index.html",
+    "main.07e5ab8b.css.map": "/aula-nft/static/css/main.07e5ab8b.css.map",
+    "main.04e90f29.js.map": "/aula-nft/static/js/main.04e90f29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e5ab8b.css",
+    "static/js/main.04e90f29.js"
+  ]
+}
