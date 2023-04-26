@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aula-nft/static/css/main.07e5ab8b.css",
-    "main.js": "/aula-nft/static/js/main.04e90f29.js",
+    "main.css": "/aula-nft/static/css/main.d7aea7dd.css",
+    "main.js": "/aula-nft/static/js/main.546cfa24.js",
     "index.html": "/aula-nft/index.html",
-    "main.07e5ab8b.css.map": "/aula-nft/static/css/main.07e5ab8b.css.map",
-    "main.04e90f29.js.map": "/aula-nft/static/js/main.04e90f29.js.map"
+    "main.d7aea7dd.css.map": "/aula-nft/static/css/main.d7aea7dd.css.map",
+    "main.546cfa24.js.map": "/aula-nft/static/js/main.546cfa24.js.map"
   },
   "entrypoints": [
-    "static/css/main.07e5ab8b.css",
-    "static/js/main.04e90f29.js"
+    "static/css/main.d7aea7dd.css",
+    "static/js/main.546cfa24.js"
   ]
 }
